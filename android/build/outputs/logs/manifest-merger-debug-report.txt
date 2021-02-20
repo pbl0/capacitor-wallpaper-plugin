@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml:2:3-6:14
+INJECTED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml:2:3-6:14
+INJECTED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml:2:3-6:14
+INJECTED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml:2:3-6:14
+INJECTED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml:2:3-6:14
+INJECTED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml:2:3-6:14
+INJECTED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml:2:3-6:14
+	package
+		ADDED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml:3:7-73
+		INJECTED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml
+		INJECTED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml
+		ADDED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml:2:3-6:14
+		INJECTED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml
+		ADDED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml:2:3-6:14
+		INJECTED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml:2:13-71
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml:5:7-74
+	android:name
+		ADDED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml:5:24-71
+uses-sdk
+INJECTED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml
+INJECTED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml
+INJECTED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml
+INJECTED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml
+		ADDED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml
+		INJECTED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml
+		ADDED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml
+		INJECTED from /home/pablo/Dev/Android/ionic/random-paper/node_modules/capacitor-wallpaper-plugin/android/src/main/AndroidManifest.xml

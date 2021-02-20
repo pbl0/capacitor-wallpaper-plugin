@@ -1,0 +1,4 @@
+tech/pablobls/plugins/wallpaper/capacitorpluginwallpaper/BuildConfig.java
+ tech.pablobls.plugins.wallpaper.capacitorpluginwallpaper.BuildConfig
+tech/pablobls/plugins/wallpaper/Wallpaper.java
+ tech.pablobls.plugins.wallpaper.Wallpaper
